@@ -2,6 +2,7 @@ h1,
 p,
 ul,
 ol {
+    color: white;
     text-align: center;
 }
 
@@ -10,4 +11,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 80px;
+}
+
+body {
+    background-color: black;
 }
